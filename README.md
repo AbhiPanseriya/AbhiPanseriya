@@ -14,13 +14,10 @@ I'm a passionate **FullStack Developer** with a strong foundation in both front-
 
 Here are some of the technologies I'm proficient in:
 
-*   **Languages:** JavaScript, [Add other languages if applicable]
-*   **Frontend:** React, Redux, HTML, CSS, [Mention other frontend frameworks/libraries]
-*   **Backend:** Node.js, [Mention other backend frameworks/languages]
-*   **Databases:** [Mention databases you are familiar with]
-*   **DevOps:** Docker, Kubernetes, CI/CD, [Mention other DevOps tools]
-*   **Cloud:** [Mention cloud platforms like AWS, Azure, GCP]
-*   **Tools:** Git, [Mention other tools]
+*   **Frontend:** HTML5/ CSS3, Javascript, Angular, React, NextJs, Ionic, Jasmine/ Karma/ Jest, Redux, JQuery, Tailwind CSS
+*   **Backend:** Node.js, Express, Graphql (Familier)
+*   **Databases:** MySQL, MongoDb
+*   **Tools:** Git, Notion, Visual Studio Code, Figma, Storybook, Nx Workspaces, Bash
 
 ---
 
