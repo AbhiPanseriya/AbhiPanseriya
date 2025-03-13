@@ -29,46 +29,19 @@ Here are some of the technologies I'm proficient in:
 Here are some of my pinned projects, feel free to explore them!
 
 #### [video-player](https://github.com/AbhiPanseriya/video-player)
-
-[![Stars Badge](https://img.shields.io/github/stars/AbhiPanseriya/video-player?style=flat-square)](https://github.com/AbhiPanseriya/video-player)
-[![License Badge](https://img.shields.io/github/license/AbhiPanseriya/video-player?style=flat-square)](https://github.com/AbhiPanseriya/video-player)
-
 A simple and versatile video player built with JavaScript. It allows you to play your video files with ease directly in the browser and supports various file types.
 
 #### [video-chat-app](https://github.com/AbhiPanseriya/video-chat-app)
-
-[![Stars Badge](https://img.shields.io/github/stars/AbhiPanseriya/video-chat-app?style=flat-square)](https://github.com/AbhiPanseriya/video-chat-app)
-[![License Badge](https://img.shields.io/github/license/AbhiPanseriya/video-chat-app?style=flat-square)](https://github.com/AbhiPanseriya/video-chat-app)
-
-A real-time video chat application developed using JavaScript.  [Add a more detailed description if you have one]
+A real-time video chat application developed using JavaScript.
 
 #### [url-shortner](https://github.com/AbhiPanseriya/url-shortner)
-
-[![Stars Badge](https://img.shields.io/github/stars/AbhiPanseriya/url-shortner?style=flat-square)](https://github.com/AbhiPanseriya/url-shortner)
-[![License Badge](https://img.shields.io/github/license/AbhiPanseriya/url-shortner?style=flat-square)](https://github.com/AbhiPanseriya/url-shortner)
-
-A simple URL shortening service built with JavaScript.  [Add a more detailed description if you have one]
+A simple URL shortening service built with JavaScript.
 
 #### [doc-editor](https://github.com/AbhiPanseriya/doc-editor)
-
-[![Stars Badge](https://img.shields.io/github/stars/AbhiPanseriya/doc-editor?style=flat-square)](https://github.com/AbhiPanseriya/doc-editor)
-[![License Badge](https://img.shields.io/github/license/AbhiPanseriya/doc-editor?style=flat-square)](https://github.com/AbhiPanseriya/doc-editor)
-
 A basic document editor created using JavaScript, allowing for simple text editing in the browser.
 
-#### [Boogle](https://github.com/AbhiPanseriya/Boogle)
-
-[![Stars Badge](https://img.shields.io/github/stars/AbhiPanseriya/Boogle?style=flat-square)](https://github.com/AbhiPanseriya/Boogle)
-[![License Badge](https://img.shields.io/github/license/AbhiPanseriya/Boogle?style=flat-square)](https://github.com/AbhiPanseriya/Boogle)
-
-[Add a description for your "Boogle" project here.]
-
 #### [json-response-api](https://github.com/AbhiPanseriya/json-response-api)
-
-[![Stars Badge](https://img.shields.io/github/stars/AbhiPanseriya/json-response-api?style=flat-square)](https://github.com/AbhiPanseriya/json-response-api)
-[![License Badge](https://img.shields.io/github/license/AbhiPanseriya/json-response-api?style=flat-square)](https://github.com/AbhiPanseriya/json-response-api)
-
-[Add a description for your "json-response-api" project here.]
+Set up a lightweight JSON endpoint in seconds, and edit your data anytime.
 
 **[View all repositories](https://github.com/AbhiPanseriya?tab=repositories)**
 
@@ -82,16 +55,6 @@ A basic document editor created using JavaScript, allowing for simple text editi
 *   [![Medium](https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium)](https://abhipanseriya.medium.com) [/abhipanseriya.medium.com](https://abhipanseriya.medium.com)
 *   [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/AbhiPanseriya) [@AbhiPanseriya](https://github.com/AbhiPanseriya)
 *   [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail)](mailto:abhipanseriya@gmail.com)  abhipanseriya@gmail.com
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiPanseriya&theme=dark&hide_border=true" alt="AbhiPanseriya's Streak" />
-</p>
-
-<p align="center">
-  <img src="http://github-readme-stats.vercel.app/api?username=AbhiPanseriya&show_icons=true&theme=dark" alt="AbhiPanseriya's GitHub Stats"/>
-</p>
 
 ---
 
